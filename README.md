@@ -1,5 +1,10 @@
 # News Image Classifier (ResNet18 + PyTorch)
 
+<img width="817" height="518" alt="training_output" src="https://github.com/user-attachments/assets/91ae1009-d3d8-4c86-b7bb-796f64ba2ebb" />
+
+<img width="996" height="95" alt="prediction" src="https://github.com/user-attachments/assets/556ddf97-6c65-4675-9f63-da85bf161a4d" />
+
+
 A real-world image classification project using PyTorch and Transfer Learning.  
 The model predicts the category of a news image into one of five classes commonly used in media pipelines:
 
